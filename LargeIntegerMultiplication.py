@@ -2,6 +2,11 @@
 # Negin Soleimani
 # https://github.com/neginsoleimani
 
+# Functions used in this algorithm
+# ord(character)
+
+
+
 # Multiplies str1 and str2, and prints result.
 def multiply(num1, num2):
     len1 = len(num1)
